@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="256px" height="256px" fill="#47A248">
+  <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="SVGRepo_iconCarrier">
+    <rect width="640" height="512" rx="15%" fill="#47A248"/>
+    <path d="M208 0h224l-35.3 65.9H243.2zM200.8 25.5L160 96H80l40.8-70.5zM112 117.8l-31.7 58.9H16l31.7-58.9zM0 265.1l31.7-58.9H96L64.3 276zM272 386.1l40.8-70.5h80l-40.8 70.5zM359.2 460.5L400 392h80l-40.8 70.5zM447.2 367.8L479 309.3H544l-31.7 58.9zM640 147.9l-31.7 58.9H544l31.7-58.9zM538.4 25.5l31.7-58.9H544l-31.7 58.9z" fill="#fff"/>
+  </g>
+</svg>
