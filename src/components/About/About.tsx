@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 import arslan from "../../assets/arslanArshad.jpg";
-import arslan_arshad from "../../assets/arslan.jpg";
+//import arslan_arshad from "../../assets/arslan.jpg";
 // import wordpress from "../../assets/wordpress.svg";
 // import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
